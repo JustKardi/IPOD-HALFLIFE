@@ -27,3 +27,6 @@ This PCB was designed in EasyEDA STD for Windows. It features many components th
 The total materials list with everything is in the BOM
 
 <img width="339" height="366" alt="PCB_PCB_halflife01_2026-10-09-color" src="https://github.com/user-attachments/assets/dba164ca-e9d2-48d8-a56a-68c64bf8eb0a" />
+<img width="339" height="366" alt="PCB_PCB_halflife01_2026-10-09" src="https://github.com/user-attachments/assets/0864c6fa-d8d2-4dfc-81b1-bbe35fe212aa" />
+<img width="1169" height="827" alt="Schematic_halflife01_2026-10-09" src="https://github.com/user-attachments/assets/500480ec-1689-4467-b3ef-8960f40071a7" />
+
