@@ -25,3 +25,5 @@ This PCB was designed in EasyEDA STD for Windows. It features many components th
 * 2KΩ Resistor (Basic Component)
 
 The total materials list with everything is in the BOM
+
+<img width="339" height="366" alt="PCB_PCB_halflife01_2026-10-09-color" src="https://github.com/user-attachments/assets/dba164ca-e9d2-48d8-a56a-68c64bf8eb0a" />
