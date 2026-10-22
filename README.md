@@ -1,6 +1,10 @@
 # IPOD-HALFLIFE
 A simple working iPod
 
+**Overview**
+
+This project was completed for the Hack Club's first week of Half Life. It also includes the materials for week 2, the enclosure. The first part is a PCB. The PCB is powered by an ESP-32 and uses a PCM5011 chip to turn mono audio into high-quality stereo audio. It includes an OLED screen to display songs and menus for navigation. It outputs via a normal 3.5mm audio jack, and it also outputs via Bluetooth (wireless headphones or earbuds). It can accept a microSD for storage and uses USB-C to charge and program the ESP. It features 5 individual buttons in a standard menu navigation layout to perform a variety of actions.
+
 This PCB was designed in EasyEDA STD for Windows. It features many components that are listed below
 
 **Components**
